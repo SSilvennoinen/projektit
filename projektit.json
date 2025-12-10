@@ -1,31 +1,31 @@
 [
   {
     "title": "MunPrintti",
-    "image": "img/project-munprintti.jpg",
+    "image": "img/boot.png",
     "link": "https://ssilvennoinen.github.io/MunPrintti/",
     "category": "web"
   },
   {
     "title": "Joulukalenteri",
-    "image": "img/project-joulukalenteri.jpg",
+    "image": "img/joulu.png",
     "link": "https://ssilvennoinen.github.io/Joulukalenteri/",
     "category": "web"
   },
   {
-    "title": "Portfolio-sivusto",
-    "image": "img/project-portfolio.jpg",
+    "title": "Luontokuva-portfolio",
+    "image": "img/word.png",
     "link": "https://saanasilvennoinen.fi",
     "category": "web"
   },
   {
     "title": "Marvel-prototyyppi",
-    "image": "img/project-marvel.jpg",
+    "image": "img/marvel.png",
     "link": "https://marvelapp.com/prototype/ah6d0bf/screen/98156281",
     "category": "proto"
   },
   {
     "title": "Figma-sivusto",
-    "image": "img/project-figma.jpg",
+    "image": "img/figma.png",
     "link": "https://gem-lapis-67102854.figma.site",
     "category": "proto"
   }
