@@ -24,7 +24,7 @@
     "category": "proto"
   },
   {
-    "title": "Figma-sivusto",
+    "title": "Figma-prototyyppi",
     "image": "img/figma.png",
     "link": "https://gem-lapis-67102854.figma.site",
     "category": "proto"
@@ -32,7 +32,14 @@
   {
     "title": "IoT-Projekti",
     "image": "img/figma.png",
+    "link": "https://github.com/SSilvennoinen/Weatherslayeaer",
+    "category": "proto"
+  },
+  {
+    "title": "Figma-prototyyppi",
+    "image": "img/figma.png",
     "link": "https://gem-lapis-67102854.figma.site",
     "category": "proto"
   }
+  
 ]
