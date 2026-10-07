@@ -12,9 +12,9 @@
     "category": "web"
   },
   {
-    "title": "Luontokuva-portfolio",
+    "title": "Wordpress-sivustoprojekti",
     "image": "img/word.png",
-    "link": "https://saanasilvennoinen.fi",
+    "link": "https://aurorabotanica.fi/",
     "category": "web"
   },
   {
@@ -25,6 +25,12 @@
   },
   {
     "title": "Figma-sivusto",
+    "image": "img/figma.png",
+    "link": "https://gem-lapis-67102854.figma.site",
+    "category": "proto"
+  },
+  {
+    "title": "IoT-Projekti",
     "image": "img/figma.png",
     "link": "https://gem-lapis-67102854.figma.site",
     "category": "proto"
