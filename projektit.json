@@ -36,10 +36,15 @@
     "category": "proto"
   },
   {
-    "title": "Tekoälyagentit",
-    "image": "img/aiagents.png",
-    "link": "https://gem-lapis-67102854.figma.site",
-    "category": "proto"
-  }
-  
+  "title": "Tekoälyagentti 1",
+  "image": "img/aiagents.png",
+  "link": "tekoälyagentti1.pdf",
+  "category": "proto"
+},
+{
+  "title": "Tekoälyagentti 2",
+  "image": "img/aiagents.png",
+  "link": "tekoälyagentti2.pdf",
+  "category": "proto"
+}
 ]
