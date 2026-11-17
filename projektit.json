@@ -35,16 +35,16 @@
     "link": "https://github.com/SSilvennoinen/Weatherslayeaer",
     "category": "proto"
   },
-  {
+{
   "title": "Tekoälyagentti 1",
   "image": "img/aiagents.png",
-  "link": "tekoälyagentti1.pdf",
+  "link": "https://ssilvennoinen.github.io/DigitalCV/tekoälyagentti1.pdf",
   "category": "proto"
 },
 {
   "title": "Tekoälyagentti 2",
   "image": "img/aiagents.png",
-  "link": "tekoälyagentti2.pdf",
+  "link": "https://ssilvennoinen.github.io/DigitalCV/tekoälyagentti2.pdf",
   "category": "proto"
 }
 ]
